@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "rtwtypes.h": "c",
+        "default_model_sf.h": "c",
+        "rt_nonfinite.h": "c"
+    }
+}
